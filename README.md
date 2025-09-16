@@ -1,16 +1,18 @@
-## Hi there 👋
+🚀 About Me
 
-<!--
-**dvashish23/dvashish23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Verification Engineer with ~3 years of experience in SoC/IP level design verification, specializing in building robust verification environments and ensuring high-quality silicon.
 
-Here are some ideas to get you started:
+🔹 Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Protocols: AMBA (AXI, AHB, APB), UART, SPI, I2C, I3C, DMA, DDR                
+Languages & Methodologies: Verilog, SystemVerilog, UVM, SVA, C, Perl, Shell, Makefile                             
+Verification Skills: Testbench & testcase creation, functional & code coverage, constraint randomization, coverage-driven & assertion-based verification                      
+Tools: Synopsys VCS, Cadence Xcelium, Mentor QuestaSim, Verdi, DVE, IMC, Linux                            
+
+🔹 Strengths
+
+Strong in debugging complex designs                        
+Writing scalable verification plans & coverage plans                         
+Creating modular, reusable environments for IP/subsystem level verification                                 
+
+💡 Passionate about solving design challenges, exploring new verification methodologies, and sharing projects that help others learn SoC design and verification concepts.
