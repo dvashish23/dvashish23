@@ -2,7 +2,8 @@
 
 I’m a Verification Engineer with 3+ years of experience in SoC/IP level design verification, specializing in building robust verification environments and ensuring high-quality silicon.
 
-**🔹 Expertise**
+**🔹 Expertise**                                                                                                               
+
 GLS Verification On Compute Subsystem
 Protocols: AMBA (AXI, AHB, APB), UART, SPI, I2C, MIPI I3C, DMA, DDR, VIP Integration              
 Languages & Methodologies: Verilog, SystemVerilog, UVM, SVA, C, Perl, Shell, Makefile                             
